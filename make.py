@@ -1,6 +1,6 @@
 import bibtexparser
 
-with open('mereology.bib', 'r') as f:
+with open('bib.bib', 'r') as f:
     bib_string = f.read()
 
 library = bibtexparser.parse_string(bib_string)
