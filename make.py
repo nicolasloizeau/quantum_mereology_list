@@ -5,7 +5,7 @@ with open('mereology.bib', 'r') as f:
 
 library = bibtexparser.parse_string(bib_string)
 
-markdown = ""
+list_md = ""
 
 entries = []
 
@@ -26,9 +26,15 @@ entries = sorted(entries, key=lambda x: x['year'], reverse=True)
 for entry in entries:
     url = "https://doi.org/"+doi
     entry  = "- [{}]({}) {}".format(entry["title"], entry["url"], entry["year"])
-    markdown += entry
-    markdown += "\n"
+    list_md += entry
+    list_md += "\n"
 
 
-with open('list.md', 'w') as f:
-    f.write(markdown)
+
+
+with open('readme_template.md', 'r') as f:
+    readme = f.read()
+
+
+with open('readme.md', 'w') as f:
+    f.write(readme.replace("INCLUDE_LIST", list_md))
