@@ -2,7 +2,7 @@
 
 ## Papers
 - [Quantum Mereology and Subsystems from the Spectrum](https://doi.org/10.1007/s10701-024-00813-2) 2024
-- [Operational {Q}uantum {M}ereology and {M}inimal {S}crambling](https://doi.org/10.22331/q-2024-07-11-1406) 2024
+- [Operational Quantum Mereology and Minimal Scrambling](https://doi.org/10.22331/q-2024-07-11-1406) 2024
 - [Unveiling order from chaos by approximate 2-localization of random matrices](https://doi.org/10.1073/pnas.2308006120) 2023
 - [Reality as a Vector in Hilbert Space](https://doi.org/10.1007/978-3-030-99642-0_15) 2022
 - [Quantum mereology: Factorizing Hilbert space into subsystems with quasiclassical dynamics](https://doi.org/10.1103/PhysRevA.103.022213) 2021
