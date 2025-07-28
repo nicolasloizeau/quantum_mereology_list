@@ -5,5 +5,9 @@
 - [Quantum mereology: Factorizing Hilbert space into subsystems with quasiclassical dynamics](https://doi.org/10.1103/PhysRevA.103.022213) 2021
 
 
+# Other stuff
+[Quantum mereology Python package](https://nicolasloizeau.github.io/quantum_mereology/)
+[QISS Carroll talk](https://www.youtube.com/watch?v=HOssfva2IBo)
+
 # Contribute
 Just add you paper's bibtex to [bib.bib](bib.bib).
