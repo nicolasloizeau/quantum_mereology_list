@@ -1,4 +1,4 @@
-# Quantum Mereology Papers
+# Quantum Mereology Ressources
 
 INCLUDE_LIST
 
@@ -7,4 +7,4 @@ INCLUDE_LIST
 - [QISS Carroll talk](https://www.youtube.com/watch?v=HOssfva2IBo)
 
 # Contribute
-Just add you paper's bibtex to [bib.bib](bib.bib).
+To add a paper, just add its bibtex to [bib.bib](bib.bib). Make sure it has a doi field.
