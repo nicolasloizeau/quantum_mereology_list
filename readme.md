@@ -10,6 +10,7 @@
 - [The universe from a single particle](https://doi.org/10.1007/JHEP01(2021)140) 2021
 - [Mad-Dog Everettianism: Quantum Mechanics at Its Most Minimal](https://doi.org/10.1007/978-3-030-11301-8_10) 2019
 - [Locality from the Spectrum](https://doi.org/10.1007/s00220-019-03376-w) 2019
+- [Consciousness as a state of matter](https://doi.org/10.1016/j.chaos.2015.03.014) 2015
 - [Quantum equivalence, the second law and emergent gravity](https://doi.org/10.48550/arXiv.1411.3901) 2014
 
 
