@@ -20,4 +20,4 @@
 
 ## Contribute
 To add a paper, just add its bibtex to [bib.bib](bib.bib). Make sure it has a doi field.
-To add something else, edite the [readme_template.md](readme_template.md) file. The paper list is automatically generated from the bibtex file.
+To add something else, edit the [readme_template.md](readme_template.md) file. The paper list is automatically generated from the bibtex file.
